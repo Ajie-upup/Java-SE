@@ -6,10 +6,7 @@ import java.util.Scanner;
  * @Author: ajie
  * @Date: 2022/11/9
  * 统计三个班成绩情况，求出各个班级的平均分和所有班级的平均分
- * 测试数据：
- * 甲
- * 乙
- * 丙
+ * 三个班的成绩都从控制台输入
  */
 public class code01_学生成绩 {
     public static void main(String[] args) {
