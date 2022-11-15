@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bab10c6b-ead8-411b-af7a-96fbd3b645d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java-base/src/class02_数组/code01_数组的创建.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class02_数组/code02_冒泡排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class02_数组/code03_二维数组_杨辉三角.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-base/src/class01_循环/code01_学生成绩.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/class01_循环/code01_学生成绩.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-base/src/class01_循环/code04_打印空心菱形.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/class01_循环/code04_打印空心菱形.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/1project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/1ajieStudy/Java-SE&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -62,13 +63,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.code04_打印空心菱形">
-    <configuration name="code01_学生成绩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_循环.code01_学生成绩" />
+  <component name="RunManager" selected="Application.code03_二维数组_杨辉三角">
+    <configuration name="code01_数组的创建" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02_数组.code01_数组的创建" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_循环.*" />
+          <option name="PATTERN" value="class02_数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code02_打印九九乘法表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_循环.code02_打印九九乘法表" />
+    <configuration name="code02_冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02_数组.code02_冒泡排序" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_循环.*" />
+          <option name="PATTERN" value="class02_数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code03_打印空心金字塔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_循环.code03_打印空心金字塔" />
+    <configuration name="code03_二维数组_杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class02_数组.code03_二维数组_杨辉三角" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_循环.*" />
+          <option name="PATTERN" value="class02_数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.code03_二维数组_杨辉三角" />
+        <item itemvalue="Application.code02_冒泡排序" />
+        <item itemvalue="Application.code01_数组的创建" />
         <item itemvalue="Application.code04_打印空心菱形" />
         <item itemvalue="Application.code05_登录验证" />
-        <item itemvalue="Application.code03_打印空心金字塔" />
-        <item itemvalue="Application.code02_打印九九乘法表" />
-        <item itemvalue="Application.code01_学生成绩" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +148,12 @@
       <option name="presentableId" value="Default" />
       <updated>1667994742372</updated>
       <workItem from="1667994743630" duration="4099000" />
-      <workItem from="1668000523092" duration="1512000" />
+      <workItem from="1668000523092" duration="1798000" />
+      <workItem from="1668130231698" duration="8000" />
+      <workItem from="1668351027206" duration="1474000" />
+      <workItem from="1668388581457" duration="7000" />
+      <workItem from="1668501032840" duration="608000" />
+      <workItem from="1668511042802" duration="3570000" />
     </task>
     <task id="LOCAL-00001" summary="11/9 Java基础循环的练习">
       <created>1667998848918</created>
@@ -156,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667998848918</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="11/9 Java基础循环的练习-打印空心菱形">
+      <created>1668002303334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668002303334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +177,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11/9 Java基础循环的练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/9 Java基础循环的练习" />
+    <MESSAGE value="11/9 Java基础循环的练习-打印空心菱形" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/9 Java基础循环的练习-打印空心菱形" />
   </component>
 </project>
