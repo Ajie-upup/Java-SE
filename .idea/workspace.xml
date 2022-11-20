@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bab10c6b-ead8-411b-af7a-96fbd3b645d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-base/src/class02_数组/code01_数组的创建.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-base/src/class02_数组/code02_冒泡排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-base/src/class02_数组/code03_二维数组_杨辉三角.java" afterDir="false" />
+    <list default="true" id="bab10c6b-ead8-411b-af7a-96fbd3b645d0" name="Changes" comment="11/15 方法递归（数列）">
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/code01_克隆对象.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/方法递归/code01_阶乘.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/方法递归/code02_斐波那契数列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/方法递归/code03_猴子吃桃.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/方法递归/code04_迷宫问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/方法递归/code05_汉洛塔问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/方法递归/code06_八皇后问题.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +67,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.code03_二维数组_杨辉三角">
-    <configuration name="code01_数组的创建" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_数组.code01_数组的创建" />
+  <component name="RunManager" selected="Application.code05_汉洛塔问题">
+    <configuration name="code01_克隆对象" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_面向对象.code01_克隆对象" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_数组.*" />
+          <option name="PATTERN" value="class04_面向对象.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code02_冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_数组.code02_冒泡排序" />
+    <configuration name="code01_阶乘" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_面向对象.方法递归.code01_阶乘" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_数组.*" />
+          <option name="PATTERN" value="class04_面向对象.方法递归.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code03_二维数组_杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class02_数组.code03_二维数组_杨辉三角" />
+    <configuration name="code02_斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_面向对象.方法递归.code02_斐波那契数列" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class02_数组.*" />
+          <option name="PATTERN" value="class04_面向对象.方法递归.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code04_打印空心菱形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_循环.code04_打印空心菱形" />
+    <configuration name="code04_迷宫问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_面向对象.方法递归.code04_迷宫问题" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_循环.*" />
+          <option name="PATTERN" value="class04_面向对象.方法递归.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code05_登录验证" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class01_循环.code05_登录验证" />
+    <configuration name="code05_汉洛塔问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_面向对象.方法递归.code05_汉洛塔问题" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class01_循环.*" />
+          <option name="PATTERN" value="class04_面向对象.方法递归.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.code03_二维数组_杨辉三角" />
-        <item itemvalue="Application.code02_冒泡排序" />
-        <item itemvalue="Application.code01_数组的创建" />
-        <item itemvalue="Application.code04_打印空心菱形" />
-        <item itemvalue="Application.code05_登录验证" />
+        <item itemvalue="Application.code05_汉洛塔问题" />
+        <item itemvalue="Application.code04_迷宫问题" />
+        <item itemvalue="Application.code02_斐波那契数列" />
+        <item itemvalue="Application.code01_阶乘" />
+        <item itemvalue="Application.code01_克隆对象" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +157,11 @@
       <workItem from="1668351027206" duration="1474000" />
       <workItem from="1668388581457" duration="7000" />
       <workItem from="1668501032840" duration="608000" />
-      <workItem from="1668511042802" duration="3570000" />
+      <workItem from="1668511042802" duration="3914000" />
+      <workItem from="1668561606684" duration="7000" />
+      <workItem from="1668764536780" duration="656000" />
+      <workItem from="1668816600170" duration="12000" />
+      <workItem from="1668925571562" duration="7001000" />
     </task>
     <task id="LOCAL-00001" summary="11/9 Java基础循环的练习">
       <created>1667998848918</created>
@@ -169,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668002303334</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11/15 Java基础-冒泡排序，杨辉三角">
+      <created>1668514764673</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668514764673</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +193,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11/9 Java基础循环的练习" />
     <MESSAGE value="11/9 Java基础循环的练习-打印空心菱形" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/9 Java基础循环的练习-打印空心菱形" />
+    <MESSAGE value="11/15 Java基础-冒泡排序，杨辉三角" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/15 Java基础-冒泡排序，杨辉三角" />
   </component>
 </project>
