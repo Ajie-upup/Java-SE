@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bab10c6b-ead8-411b-af7a-96fbd3b645d0" name="Changes" comment="11/15 方法递归（数列）">
-      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/code02_猜拳.java" afterDir="false" />
+    <list default="true" id="bab10c6b-ead8-411b-af7a-96fbd3b645d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/重写equals/EqualsExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/重写equals/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,10 +60,23 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.code02_猜拳">
+  <component name="RunManager" selected="Application.EqualsExercise">
+    <configuration name="EqualsExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_面向对象.重写equals.EqualsExercise" />
+      <module name="java-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class04_面向对象.重写equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="code01_克隆对象" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class04_面向对象.code01_克隆对象" />
       <module name="java-base" />
@@ -143,7 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.code02_猜拳" />
+        <item itemvalue="Application.EqualsExercise" />
         <item itemvalue="Application.code05_汉洛塔问题" />
         <item itemvalue="Application.code04_迷宫问题" />
         <item itemvalue="Application.code02_斐波那契数列" />
@@ -170,7 +184,10 @@
       <workItem from="1668764536780" duration="656000" />
       <workItem from="1668816600170" duration="12000" />
       <workItem from="1668925571562" duration="7001000" />
-      <workItem from="1669041280672" duration="2524000" />
+      <workItem from="1669041280672" duration="3177000" />
+      <workItem from="1669071836594" duration="2419000" />
+      <workItem from="1669080206556" duration="6000" />
+      <workItem from="1669211280745" duration="1491000" />
     </task>
     <task id="LOCAL-00001" summary="11/9 Java基础循环的练习">
       <created>1667998848918</created>
@@ -193,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668514764673</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="面向对象初级实现猜拳游戏">
+      <created>1669044245439</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669044245439</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +238,11 @@
     <MESSAGE value="11/9 Java基础循环的练习" />
     <MESSAGE value="11/9 Java基础循环的练习-打印空心菱形" />
     <MESSAGE value="11/15 Java基础-冒泡排序，杨辉三角" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/15 Java基础-冒泡排序，杨辉三角" />
+    <MESSAGE value="面向对象初级实现猜拳游戏" />
+    <option name="LAST_COMMIT_MESSAGE" value="面向对象初级实现猜拳游戏" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
