@@ -59,6 +59,7 @@ public class Menu {
             System.out.println("您还没有收益入账和消费，请先入账或消费");
             return;
         }
+
         System.out.println("-------------零钱通明细--------------");
         for (Bill bill : bills) {
             System.out.println(bill.toString());
@@ -71,6 +72,10 @@ public class Menu {
         List<Bill> bills = count.getBills();
         double totalMoney = count.getTotalMoney();
         double moneyAdd = sc.nextDouble();
+        while(!moneyCheck(moneyAdd)){
+            System.out.println("您输入的金额有误，请重新输入！");
+            moneyAdd = sc.nextDouble();
+        }
         totalMoney += moneyAdd;
         Bill bill = new Bill("收益入账", +moneyAdd, new Date(), totalMoney);
         bills.add(bill);
@@ -90,6 +95,10 @@ public class Menu {
         } else {
             System.out.println("您的余额不足，不能消费，请查看余额");
         }
+    }
+
+    public static boolean moneyCheck(double money) {
+        return money > 0;
     }
 
 }

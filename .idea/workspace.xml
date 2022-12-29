@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bab10c6b-ead8-411b-af7a-96fbd3b645d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/零钱通/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/零钱通/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/零钱通/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class05_枚举_注解/枚举/Type01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class05_枚举_注解/枚举/Type02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class05_枚举_注解/注解/Deprecated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class05_枚举_注解/注解/Override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class05_枚举_注解/注解/SuppressWarning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class06_Exception/Exception01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class06_Exception/Exception02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-base/src/class06_Exception/TryCatchExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-base/src/class04_面向对象/零钱通/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-base/src/class04_面向对象/零钱通/Menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +70,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;debugger.stepping&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Menu">
-    <configuration name="EqualsExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04_面向对象.重写equals.EqualsExercise" />
+  <component name="RunManager" selected="Application.TryCatchExercise">
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04_面向对象.零钱通.Menu" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04_面向对象.重写equals.*" />
+          <option name="PATTERN" value="class04_面向对象.零钱通.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +84,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04_面向对象.零钱通.Menu" />
+    <configuration name="TryCatchExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class06_Exception.TryCatchExercise" />
       <module name="java-base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class04_面向对象.零钱通.*" />
+          <option name="PATTERN" value="class06_Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Type01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05_枚举_注解.枚举.Type01" />
+      <module name="java-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05_枚举_注解.枚举.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Type02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class05_枚举_注解.枚举.Type02" />
+      <module name="java-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class05_枚举_注解.枚举.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,52 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="code02_猜拳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04_面向对象.code02_猜拳" />
-      <module name="java-base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class04_面向对象.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code04_迷宫问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04_面向对象.方法递归.code04_迷宫问题" />
-      <module name="java-base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class04_面向对象.方法递归.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="code05_汉洛塔问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class04_面向对象.方法递归.code05_汉洛塔问题" />
-      <module name="java-base" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class04_面向对象.方法递归.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatchExercise" />
+        <item itemvalue="Application.Type02" />
+        <item itemvalue="Application.Type01" />
         <item itemvalue="Application.Menu" />
         <item itemvalue="Application.code01_克隆对象" />
-        <item itemvalue="Application.EqualsExercise" />
-        <item itemvalue="Application.code05_汉洛塔问题" />
-        <item itemvalue="Application.code04_迷宫问题" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +183,19 @@
       <workItem from="1669080206556" duration="6000" />
       <workItem from="1669211280745" duration="4856000" />
       <workItem from="1669245805520" duration="596000" />
-      <workItem from="1669257423886" duration="4516000" />
+      <workItem from="1669257423886" duration="5333000" />
+      <workItem from="1669288532939" duration="9000" />
+      <workItem from="1669301929268" duration="1561000" />
+      <workItem from="1669338286899" duration="16000" />
+      <workItem from="1669645496482" duration="8000" />
+      <workItem from="1669690407693" duration="7000" />
+      <workItem from="1671888832204" duration="876000" />
+      <workItem from="1671950122152" duration="715000" />
+      <workItem from="1672028427080" duration="783000" />
+      <workItem from="1672108995965" duration="51000" />
+      <workItem from="1672234105265" duration="3366000" />
+      <workItem from="1672274195921" duration="59000" />
+      <workItem from="1672316860514" duration="3123000" />
     </task>
     <task id="LOCAL-00001" summary="11/9 Java基础循环的练习">
       <created>1667998848918</created>
@@ -227,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669212844075</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="完成零钱通Java基础">
+      <created>1669262113125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669262113125</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +262,8 @@
     <MESSAGE value="11/15 Java基础-冒泡排序，杨辉三角" />
     <MESSAGE value="面向对象初级实现猜拳游戏" />
     <MESSAGE value="解析equals源码，并模仿" />
-    <option name="LAST_COMMIT_MESSAGE" value="解析equals源码，并模仿" />
+    <MESSAGE value="完成零钱通Java基础" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成零钱通Java基础" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
